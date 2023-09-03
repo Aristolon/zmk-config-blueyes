@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: nice_nano_v2
-    shield: osprette
+  - board: nrfmicro_13
+    shield: blueyes

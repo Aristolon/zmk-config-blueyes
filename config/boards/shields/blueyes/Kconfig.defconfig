@@ -1,0 +1,6 @@
+if SHIELD_blueyes
+            
+config ZMK_KEYBOARD_NAME
+    default "blueyes"
+
+endif
