@@ -147,8 +147,8 @@
         };
 
         ctrl_plus_alt {
-            bindings = <&kp LA(LCTRL)>;
-            key-positions = <38 37 30 31>;
+            bindings = <&kp LC(LS(LCTRL))>;
+            key-positions = <38 37 10 20>;
             layers = <0 1 2>;
         };
 
